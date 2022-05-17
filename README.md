@@ -31,5 +31,5 @@ Students will be assessed based on response based on the rubric below.
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+My plan will facilitate diversity but promoting student discussion in a smaller group setting. In this small group setting students can share they reflection on how programs being learned in computer science are impacting them and all. Students are inclusive because the different goals in each task within the lessons can be achieve in different solutions. This can promote different responses to the reflection of how this connects with the real world, in their own perspective. This will help in the long run because students are not given then chance to reflect on the content and how this information taught within the content connects with their experiences which is within their society. Their life experiences maybe different than those to the person next to them and give them the chance to see how computer science connects us all together.
 
