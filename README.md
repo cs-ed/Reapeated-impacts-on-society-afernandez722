@@ -26,7 +26,7 @@ Students will have to discuss in group of 4. In a Kagan strategy called round ro
 Students will be assessed based on response.
 | 4           | 3           | 2            | 1           |
 | :---        |        ---: |         ---: |         ---:|
-| Student makes connection between the program in the course and impacts on society. Provides examples and applies to program in course.|
+| Student makes connection between the program in the course and impacts on society. Provides examples and applies to program in course. Include pros and cons of program to society impact.|Students makes connection between program in course to impacts in society. Attempts to provide examples with some explanation to connection. Include pros and cons to society impact.| Student attempts to make connection between program in course to its impact to society. Provides a few examples of connection betwee program and society impact. Provides a few pros and cons to society impact.|
 
 ### Outcomes
 
