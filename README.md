@@ -27,7 +27,6 @@ Students will be assessed based on response.
 | 4           | 3           | 2            | 1           |
 | :---        |        ---: |         ---: |         ---:|
 | Student makes connection between the program in the course and impacts on society. Provides examples and applies to program in course.
-Student | Title       | Here's this  |             |
 
 ### Outcomes
 
