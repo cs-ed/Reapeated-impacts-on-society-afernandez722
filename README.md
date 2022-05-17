@@ -7,18 +7,19 @@ Course name is Computer science A. This course is a elective program implented a
 Students will relate the programs used in the course to compare to real life and how these programs impact society.
 
 ### Learning Activities
-Students will work on these units for the following weeks. 
-After students complete the units of each program being introduced to students students will answer the following question: 
+Students will work on following topics for the following weeks. 
+After students complete these lessons of each program being introduced to students students will answer and reflect on the following question: 
 
 How would you compare the different parts of (insert program taught below) and how they impact society? 
 
 What are the pros and cons of this program  and the impact in society?
+
 - Week 1-3 Learning about [Scratch](https://scratch.mit.edu)
 - Week 4-6 [Tinkercad Circuits](https://www.tinkercad.com/things/fFl30RMLP3m-fantabulous-habbi-borwo/editel?tenant=circuits)
 - Week 7-9 [Arduino](https://cloud.arduino.cc/)
 - Week 10 [Python](https://www.codecademy.com/learn) 
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+Students will have to discuss in group of 4. In a Kagan strategy called round robin. Students will have 45 seconds or less to share out in chronological order to each member of their group while others 
 
 ### Assessment
 
