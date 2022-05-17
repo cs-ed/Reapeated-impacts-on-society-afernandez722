@@ -19,11 +19,15 @@ What are the pros and cons of this program  and the impact in society?
 - Week 7-9 [Arduino](https://cloud.arduino.cc/)
 - Week 10 [Python](https://www.codecademy.com/learn) 
 
-Students will have to discuss in group of 4. In a Kagan strategy called round robin. Students will have 45 seconds or less to share out in chronological order to each member of their group while others 
+Students will have to discuss in group of 4. In a Kagan strategy called round robin. Students will have 45 seconds or less to share out in chronological order to each member of their group while others are listening. The audience will be able to discuss the person's response. They will give constructive feedback on and add on to that person's thoughts. This will benefit students to further reflect and modify their responses. 
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
+Students will be assessed based on response.
+| 4           | 3           | 2             | 1           |
+| :---        |    :----:   |          ---: |         ---:|
+| Header      | Title       | Here's this   |             |
+| Paragraph   | Text        | And more      |             |
 
 ### Outcomes
 
