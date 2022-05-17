@@ -25,7 +25,7 @@ Students will have to discuss in group of 4. In a Kagan strategy called round ro
 
 Students will be assessed based on response.
 | 4           | 3           | 2             | 1           |
-| :---        |    :----:   |          ---: |         ---:|
+| :---        |        ---: |          ---: |         ---:|
 | Header      | Title       | Here's this   |             |
 | Paragraph   | Text        | And more      |             |
 
