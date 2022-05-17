@@ -1,4 +1,4 @@
-# Impacts on Society
+# Repeats on Social Impact
 Course name is Computer science A. This course is a elective program implented at Robert Peary middle School to provide students the access to computer science topics, skills, and knowledge. This course will be for 7th and 8th grade students. The course will be in time period of 10 weeks. The school has reduced a semester long of curriculum to 10 weeks for every content. Students will go through a series of programs and students will reflect on how these programs taught in this course impact society. The programs in this course are such as but not limited to Tinkercad, scratch, Arduino, and python coding.  
 
 ## Plan
