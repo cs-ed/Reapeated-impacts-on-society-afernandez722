@@ -12,6 +12,7 @@ Students will work on these units for the following weeks. After students comple
 - Week 4-6 [Tinkercad Circuits](https://www.tinkercad.com/things/fFl30RMLP3m-fantabulous-habbi-borwo/editel?tenant=circuits)
 - Week 7-9 [Arduino](https://cloud.arduino.cc/)
 - Week 10 [Python](https://www.codecademy.com/learn) 
+
 Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
 
 ### Assessment
