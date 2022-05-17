@@ -10,9 +10,9 @@ Students will relate the programs used in the course to compare to real life and
 Students will work on following topics for the following weeks. 
 After students complete these lessons of each program being introduced to students students will answer and reflect on the following question: 
 
-**How would you compare the different parts of (insert program taught below) and how they impact society? 
+**How would you compare the different parts of (insert program taught below) and how they impact society?** 
 
-**What are the pros and cons of this program  and the impact in society?
+**What are the pros and cons of this program  and the impact in society?**
 
 - Week 1-3 Learning about [Scratch](https://scratch.mit.edu) Students will complete projects provided by Scratch with student's remix. Anticipation of students connecting Scratch programming to games making, story telling, and much more.
 - Week 4-6 [Tinkercad Circuits](https://www.tinkercad.com/things/fFl30RMLP3m-fantabulous-habbi-borwo/editel?tenant=circuits) Students will go through series of lessons provided by TinkerCad going over circuits in a virtual manner. Anticipation that students can see the many uses virtual online 3D programs can connect to animation, model simuation, and much more.
