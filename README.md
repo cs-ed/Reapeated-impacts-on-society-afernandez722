@@ -27,7 +27,7 @@ Students will be assessed on writen reflection response based on the rubric belo
 
 | 4           | 3           | 2            | 1           |
 | ---:        | ---:        |  ---:        | ---:        |
-| Student makes connection between the program in the course and its impacts on society. Provides examples and applies to program in course. Include pros and cons of program to society impact.|Students makes connection between program in course and its impacts in society. Attempts to provide examples with some explanation to connection. Include pros and cons to society impact.| Student attempts to make connection between program in course to its impact to society. Provides a few examples of connection betwee program and society impact. Provides a few pros and cons to society impact.| Student has challenges making connection between programs in the course and its impact on society.| 
+| Student makes connection and provides multiple examples of pros and cons of the program and its impact on society.|Students makes connection between program and its impacts in society. Attempts to provide examples with some explanation to connection. Include pros and cons to society impact.| Student attempts to make connection between program in course to its impact to society. Provides a few examples of connection betwee program and society impact. Provides a few pros and cons to society impact.| Student has challenges making connection between programs in the course and its impact on society.| 
 
 ### Outcomes
 
