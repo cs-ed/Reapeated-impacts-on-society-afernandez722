@@ -23,7 +23,7 @@ Students will have time to reflect in their composition notebook reflection to t
 
 ### Assessment
 
-Students will be assessed based on response based on the rubric below.
+Students will be assessed on writen reflection response based on the rubric below.
 
 | 4           | 3           | 2            | 1           |
 | ---:        | ---:        |  ---:        | ---:        |
