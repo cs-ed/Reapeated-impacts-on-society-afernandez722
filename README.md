@@ -8,18 +8,18 @@ Students will relate the programs used in the course to compare to real life and
 
 ### Learning Activities
 Students will work on following topics for the following weeks. 
-After students complete these lessons of each program being introduced to students students will answer and reflect on the following question: 
+After students complete these lessons of each program being introduced, students will answer and reflect on the following question: 
 
-**How would you compare the different parts of (insert program taught below) and how they impact society?** 
+**How would you compare the different parts of (insert program taught that week) and how they impact society?** 
 
-**What are the pros and cons of this program  and the impact in society?**
+**How does the pros and cons of (the program taught those weeks) impact in society?**
 
-- Week 1-3 Learning about [Scratch](https://scratch.mit.edu) Students will complete projects provided by Scratch with student's remix. Anticipation of students connecting Scratch programming to games making, story telling, and much more.
-- Week 4-6 [Tinkercad Circuits](https://www.tinkercad.com/things/fFl30RMLP3m-fantabulous-habbi-borwo/editel?tenant=circuits) Students will go through series of lessons provided by TinkerCad going over circuits in a virtual manner. Anticipation that students can see the many uses virtual online 3D programs can connect to animation, model simuation, and much more.
-- Week 7-9 [Arduino](https://cloud.arduino.cc/) Students will then apply what they have learned from Tinkercad to physical form of circuits using Arduinos. Anticipation that students can connect this program to every day use of LCD monitors, motors in many technology devices, and much more.
-- Week 10 [Python](https://www.codecademy.com/learn) Students will go through a series of lessons through CodeAcademy to learn to code using Python. Anticipation that students can make connection to data use from social media, websites, and so much more connections.
+- **Week 1-3** Learning about [Scratch](https://scratch.mit.edu) Students will complete projects provided by Scratch with student's remix. Anticipation of students connecting Scratch programming to games making, story telling, and much more.
+- **Week 4-6** [Tinkercad Circuits](https://www.tinkercad.com/things/fFl30RMLP3m-fantabulous-habbi-borwo/editel?tenant=circuits) Students will go through series of lessons provided by TinkerCad going over circuits in a virtual manner. Anticipation that students can see the many uses virtual online 3D programs can connect to animation, model simuation, and much more.
+- **Week 7-9** [Arduino](https://cloud.arduino.cc/) Students will then apply what they have learned from Tinkercad to physical form of circuits using Arduinos. Anticipation that students can connect this program to every day use of LCD monitors, motors in many technology devices, and much more.
+- **Week 10** [Python, CodeAcademy](https://www.codecademy.com/learn) Students will go through a series of lessons through CodeAcademy to learn to code using Python. Anticipation that students can make connection to data use from social media, websites, and so much more connections.
 
-Students will have time to reflect in their composition notebook reflection to the questions above. Then, they will be given time to discuss in group of 4 their written responses. In a Kagan strategy called round robin. Where students will go around and share. Students will have 45 seconds or less to share out in chronological order to each member of their group while others are listening. The students who are listening will be able to discuss the person's response. They will give constructive feedback on and add on to that person's thoughts. This will benefit students to further reflect and modify their responses. After group discussion teacher will have an open forum to further expand on topics that teacher observed while students were discussing in small group. If topics of social economic disadvantages or race and gender barriers are not brought up with students. Teacher will faciliate the following questions. How do these programs advantage or disadvantage to those who are not exposed? (For example, Non-white men).
+Students will have time to reflect in their composition notebook reflection to the questions above. Then, they will be given time to discuss in group of 4 their reflection and connections using a Kagan strategy called round robin. With this strategy, students are given 45 seconds or less to share out in chronological order to each member of their group while others are listening. The students who are listening will be able to discuss the person's response. They will give constructive feedback on and add on to that person's thoughts. This will benefit students to further reflect and modify their responses. After group discussion teacher will have an open forum to further expand on topics that teacher observed while students were discussing in small group. If topics of social economic disadvantages or race and gender barriers are not brought up with students. Teacher will faciliate the following questions. How do these programs advantage or disadvantage to those who are not exposed? (For example, Non-white men).
 
 ### Assessment
 
